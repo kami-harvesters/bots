@@ -1,0 +1,2 @@
+# bots
+For bots metadata
