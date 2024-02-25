@@ -1,7 +1,7 @@
 {
-    "url": "https://ton-connect.github.io/demo-dapp-with-react-ui/",
-    "name": "Demo Dapp with React UI",
-    "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
-    "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
-    "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+  "url": "https://kami-harvesters.github.io/rbot-ui",
+  "name": "R-Bot",
+  "iconUrl": "https://kami-harvesters.github.io/rbot-ui/rbot/bot-metabot/atocha-icon.png",
+  "termsOfUseUrl": "https://kami-harvesters.github.io/rbot-ui/terms-of-use.txt",
+  "privacyPolicyUrl": "https://kami-harvesters.github.io/rbot-ui/privacy-policy.txt"
 }
